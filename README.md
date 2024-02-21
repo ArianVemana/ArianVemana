@@ -10,6 +10,6 @@ Currently studying at Batam State Polytechnic
 Cyber Security engineering student 🧑‍💻
 
 👉My Social Media :
-Instagram👉 [@yann.putraa__](https://www.instagram.com/yann.putraa__/) |
-Linkedin👉 [Arian Vemana Putra K](https://www.linkedin.com/in/arian-vemana-putra-kaban) |
-Portfolio👉 [arian-vemana portfolio](https://arianvemana-portfolio-web.vercel.app/) |
+- Instagram👉 [@yann.putraa__](https://www.instagram.com/yann.putraa__/) 
+- Linkedin👉 [Arian Vemana Putra K](https://www.linkedin.com/in/arian-vemana-putra-kaban) 
+- Portfolio👉 [arian-vemana portfolio](https://arianvemana-portfolio-web.vercel.app/) 
