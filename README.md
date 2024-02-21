@@ -1,5 +1,10 @@
+Hi there 👋
 Soar to new heights, stay high and fly high.
 Hello, it's me Arian 👋
+
+About Me
+I'm Arian Vemana Putra Kaban. I'm currently exploring Cybersecurity.
+
 
 Currently studying at Batam State Polytechnic
 Cyber Security engineering student 🧑‍💻
